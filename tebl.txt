@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>love Store</title>
+</head>
+<body>
+<teblelborder="2"
+bordercolor="dark pink"
+cellpadding="10"
+cellspacing="3"
+bgcolor="light pink"
+align="right">
+<tr>
+<td>катя</td>
+<td>любит</td>
+</tr>
+<tr>
+<td>чёрных</td>
+<td>арина</td>
+</tr>
+<tr>
+<td>любит</td>
+<td>размарина</td>
+</tr>
+</table>
+</body>
+</html>
