@@ -3,23 +3,23 @@
 <title>love Store</title>
 </head>
 <body>
-<teblelborder="2"
-bordercolor="dark pink"
+<table border="2"
+bordercolor="pink"
 cellpadding="10"
 cellspacing="3"
-bgcolor="light pink"
-align="right">
+bgcolor="yellow"
+styie="border-style: double;">
 <tr>
 <td>катя</td>
+<td>Арина</td>
+</tr>
+<tr>
+<td>любит</td>
 <td>любит</td>
 </tr>
 <tr>
 <td>чёрных</td>
-<td>арина</td>
-</tr>
-<tr>
-<td>любит</td>
-<td>размарина</td>
+<td>ghjjhf</td>
 </tr>
 </table>
 </body>
